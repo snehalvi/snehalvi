@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Snehal Ingole
-- 👀 I’m interested in coding
-- 🌱 I’m currently learning java
+- 👀 I’m interested in coding.
+- 🌱 I’m currently learning java.
 
 <!---
 snehalvi/snehalvi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
